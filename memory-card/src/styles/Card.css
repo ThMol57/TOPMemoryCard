@@ -1,0 +1,33 @@
+.ImgContainer {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    vertical-align: middle;
+
+    width: 300px;
+    height: 300px;
+}
+
+.Img { 
+    
+    padding: 0px;
+
+    border: solid black;
+    border-radius: 20px;
+    width: 250px;
+    height: 250px;
+}
+
+.Img:hover {
+
+    transition: 0.4s;
+    width: 275px;
+    height: 275px;
+    
+}
+
+.btn-primary {
+    border-radius: 20px;
+    padding: 0px;
+}
