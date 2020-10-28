@@ -3,3 +3,8 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
 }
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

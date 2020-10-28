@@ -1,0 +1,12 @@
+.HeaderContainer {
+
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+
+    width: 100%;
+    background-color: rgb(95, 21, 21);
+}

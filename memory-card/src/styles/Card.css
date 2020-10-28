@@ -5,8 +5,8 @@
     align-items: center;
     vertical-align: middle;
 
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
 }
 
 .Img { 
@@ -15,15 +15,15 @@
 
     border: solid black;
     border-radius: 20px;
-    width: 250px;
-    height: 250px;
+    width: 225px;
+    height: 225px;
 }
 
 .Img:hover {
 
     transition: 0.4s;
-    width: 275px;
-    height: 275px;
+    width: 250px;
+    height: 250px;
     
 }
 
